@@ -38,13 +38,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-<<<<<<< HEAD
   email: "wuethrich.pierre@gmail.com"
-  github: "https://pierrewuethrich.github.io"
+  github: 'pierrewuethrich'
   twitter: pierrewuethrich
   rss: true
 #  reddit: yourname
-  linkedin: pierrewuethrich
+  linkedin: '/in/pierre-wuethrich/'
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -63,8 +62,8 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
