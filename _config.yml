@@ -12,10 +12,14 @@ author: Pierre Wüthrich
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - General: 'https://pierrewuethrich.gihub.io'
+    - AI/ML/DRL: 'https://pierrewuethrich.github.io'
+    - Math Basics: 'https://pierrewuethrich.github.io'
+    - Reading Notes: 'https://pierrewuethrich.github.io'
+#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+#    - Learn markdown: "http://www.markdowntutorial.com/"
+  About Me: "aboutme"
   
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
