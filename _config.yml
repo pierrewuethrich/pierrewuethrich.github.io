@@ -4,7 +4,7 @@
 title: Pierre's Blog
 
 # Short description of your site
-description:
+description: AI and coffee
 
 # Your name to show in the footer
 author: Pierre Wüthrich
@@ -43,8 +43,7 @@ round-avatar: true
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author: 
-  name: Wuethrich Pierre
->>>>>>> Add sublevel in navbar
+  name: Wüthrich Pierre
 
 social-network-links:
   email: "wuethrich.pierre@gmail.com"
@@ -52,7 +51,7 @@ social-network-links:
   twitter: pierrewuethrich
   rss: true
 #  reddit: yourname
-  linkedin: '/pierre-wuethrich'
+  linkedin: 'pierre-wuethrich'
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
