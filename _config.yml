@@ -13,7 +13,7 @@ author: Pierre Wüthrich
 
 navbar-links:
   Resources:
-    - General: 'https://pierrewuethrich.gihub.io'
+    - General: general
     - AI/ML/DRL: 'https://pierrewuethrich.github.io'
     - Math Basics: 'https://pierrewuethrich.github.io'
     - Reading Notes: 'https://pierrewuethrich.github.io'
