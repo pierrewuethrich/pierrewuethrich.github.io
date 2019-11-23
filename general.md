@@ -1,7 +1,7 @@
 ---
 layout: page
 title: General Posts
-subtitle: Here are all posts that do not fit into other categories
+subtitle: All posts that do not fit into any of the other categories
 ---
 
 Content to come soon!
