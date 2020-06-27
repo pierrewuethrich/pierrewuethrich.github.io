@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Pierre's Blog'
+title: Pierre's Blog
 
 # Short description of your site
 description: Pierre's Blog
@@ -47,7 +47,7 @@ social-network-links:
   email: "wuethrich.pierre@gmail.com"
   github: 'pierrewuethrich'
   linkedin: 'pierre-wuethrich'
-  twitter: pierrewuethrich
+  twitter: pierre_wuethri
   rss: true
 #  reddit: yourname
 #  xing: yourname
